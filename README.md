@@ -6,7 +6,7 @@ This project demonstrates a full-scale data analysis pipeline using a dataset of
 ## Repository Contents
 * **`pizza_sales.csv`**: The original dataset containing 48,000+ transaction rows.
 * **`Pizza_sales.sql`**: MySQL scripts used to calculate KPIs and extract time-series trends.
-* **`Pizza_Sales_DASHBOARD.xlsx`**: The final interactive Excel workbook with Pivot Tables and Slicers.
+* **`Pizza_Sales_DAHBOARD.xlsx`**: The final interactive Excel workbook with Pivot Tables and Slicers.
 
 ## Key Technical Highlights
 * **High-Volume Data Processing:** Optimized SQL queries to analyze a 48,000+ row database for KPIs like Total Revenue, Average Order Value (AOV), and Total Pizzas Sold.
